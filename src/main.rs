@@ -4,7 +4,6 @@ use std::path::PathBuf;
 use dirs::home_dir;
 use log::{debug, info};
 use serde::{Deserialize, Serialize};
-use serde::export::fmt::Debug;
 use structopt::StructOpt;
 
 use circle_ci_client::CircleCiClient;
