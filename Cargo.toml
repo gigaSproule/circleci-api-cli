@@ -16,5 +16,5 @@ reqwest = {version="0.11.18", features=["blocking", "json"]}
 yaml = "0.3.0"
 serde = {version="1.0.164", features=["derive"]}
 serde_yaml = "0.9.21"
-serde_json = "1.0.96"
+serde_json = "1.0.97"
 maplit = "1.0.2"
